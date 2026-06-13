@@ -4,6 +4,7 @@ import instagramIcon from './assets/images/Instagram_icon.png';
 import './App.css';
 
 // This component checks the path and renders your clickable/static header
+//hoping this works alright
 function NavHeader() {
   const location = useLocation();
   return (
