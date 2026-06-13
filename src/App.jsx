@@ -46,7 +46,7 @@ function App() {
                       <li><a href="https://github.com/evayohane" target="_blank" rel="noreferrer"><svg className="button-icon" role="presentation" aria-hidden="true"><use href="/icons.svg#github-icon"></use></svg>GitHub</a></li>
                       <li><a href="https://discord.gg/GCZWqWf" target="_blank" rel="noreferrer"><svg className="button-icon" role="presentation" aria-hidden="true"><use href="/icons.svg#discord-icon"></use></svg>Discord</a></li>
                       <li><a href="https://instagram.com/evayohane" target="_blank" rel="noreferrer"><img className="button-icon" src={instagramIcon} alt="Instagram" />Instagram</a></li>
-                      <li><a href="https://x.com/evayohane" target="_blank" rel="noreferrer"><svg className="button-icon" role="presentation" aria-hidden="true"><use href="/icons.svg#x-icon"></use></svg>X</a></li>
+                      <li><a href="https://x.com/evayohane12" target="_blank" rel="noreferrer"><svg className="button-icon" role="presentation" aria-hidden="true"><use href="/icons.svg#x-icon"></use></svg>X</a></li>
                     </ul>
                   </div>
                 </section>
