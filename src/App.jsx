@@ -63,7 +63,7 @@ function App() {
             <section id="about-page">
               <div className="about-panel">
                 <h2>About me</h2>
-                <p>Hi, I'm eva! An upcoming drag artist, goth and all around extroverted ADHD-er.</p>
+                <p>Hi, I'm eva! An upcoming drag artist, goth and all around extroverted ADHD Demon!</p>
                 <p>I've been doing dev work since 13 and recently became an upcoming drag artist.</p>
                 <p>You can check out more of my stuff by checking out my Instagram profile, which is below!</p>
                 <p>Any queries, press the email button and you can contact me directly!</p>
